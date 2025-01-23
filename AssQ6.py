@@ -1,0 +1,1 @@
+#Print all integers that are not divisible by either 2 or 3 and lie between 1 and 50
