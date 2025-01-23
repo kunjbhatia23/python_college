@@ -6,4 +6,4 @@ def find_smallest_divisor(n):
             return i
 number = int(input("Enter an integer greater than 1: "))
 result = find_smallest_divisor(number)
-print(f"The smallest divisor of {number} other than 1 is: {result}")
+print("The smallest divisor of {number} other than 1 is: {result}")
